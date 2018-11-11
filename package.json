@@ -1,0 +1,33 @@
+{
+  "name": "api-errors",
+  "version": "1.0.0",
+  "description": "Customizable API errors for RESTful and web services",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdimascio/node-api-errors.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "api",
+    "errors",
+    "http-errors",
+    "rest",
+    "web-services"
+  ],
+  "author": "Carmine DiMascio <cdimascio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdimascio/node-api-errors/issues"
+  },
+  "homepage": "https://github.com/cdimascio/node-api-errors#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
